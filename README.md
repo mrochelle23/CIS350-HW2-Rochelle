@@ -18,7 +18,7 @@
 - AWK Scripting
 
 ### Frameworks
-- Boostrap
+- Bootstrap
 - Tailwind
 
 ### Tools
